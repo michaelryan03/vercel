@@ -1,12 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  
-  <!-- Trang chủ cá nhân -->
+  <url>
+    <loc>https://michaelryan03.vercel.app/do-ket-qua-xo-so-mien-trung-hom-nay-nhanh-chong.html</loc>
+    <lastmod>2026-10-15</lastmod>
+  </url>
+  <url>
+    <loc>https://michaelryan03.vercel.app/googlef21b73e69f7b87dd.html</loc>
+    <lastmod>2026-10-09</lastmod>
+  </url>
   <url>
     <loc>https://michaelryan03.vercel.app/</loc>
-    <lastmod>2026-10-09</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>1.0</priority>
+    <lastmod>2026-10-15</lastmod>
   </url>
-
 </urlset>
